@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokemon-app-master/static/css/main.671a2a4c.chunk.css",
+    "main.js": "/pokemon-app-master/static/js/main.bc726cb2.chunk.js",
+    "main.js.map": "/pokemon-app-master/static/js/main.bc726cb2.chunk.js.map",
+    "runtime-main.js": "/pokemon-app-master/static/js/runtime-main.e60ef931.js",
+    "runtime-main.js.map": "/pokemon-app-master/static/js/runtime-main.e60ef931.js.map",
+    "static/js/2.18692212.chunk.js": "/pokemon-app-master/static/js/2.18692212.chunk.js",
+    "static/js/2.18692212.chunk.js.map": "/pokemon-app-master/static/js/2.18692212.chunk.js.map",
+    "index.html": "/pokemon-app-master/index.html",
+    "static/css/main.671a2a4c.chunk.css.map": "/pokemon-app-master/static/css/main.671a2a4c.chunk.css.map",
+    "static/js/2.18692212.chunk.js.LICENSE.txt": "/pokemon-app-master/static/js/2.18692212.chunk.js.LICENSE.txt",
+    "static/media/Card.module.css": "/pokemon-app-master/static/media/water.8cdcd2ff.jpeg",
+    "static/media/Initial.module.css": "/pokemon-app-master/static/media/pokes.3405398a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e60ef931.js",
+    "static/js/2.18692212.chunk.js",
+    "static/css/main.671a2a4c.chunk.css",
+    "static/js/main.bc726cb2.chunk.js"
+  ]
+}
